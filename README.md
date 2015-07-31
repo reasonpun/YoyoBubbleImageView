@@ -7,12 +7,18 @@ Chat bubble ImageView.
 <p>
     <img src="https://raw.githubusercontent.com/reasonpun/YoyoBubbleImageView/master/2.png"
    width="320" alt="demo"/>
+
    &nbsp;&nbsp;&nbsp;
+
    <img src="https://raw.githubusercontent.com/reasonpun/YoyoBubbleImageView/master/screenshot-1.png"
    width="320" alt="Screenshot"/>
+
    &nbsp;&nbsp;&nbsp;
+
    <img src="https://raw.githubusercontent.com/reasonpun/YoyoBubbleImageView/master/demo.gif" width="320" alt="demo"/>
+
    &nbsp;&nbsp;&nbsp;
+
 </p>
 
 
